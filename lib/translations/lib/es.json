@@ -100,6 +100,10 @@
   "comment-card.show": "mostrar",
   "comment-vote.downvote": "No aporta al debate",
   "comment-vote.upvote": "Aporta al debate",
+  "comments.alias.from": "Publicado por",
+  "comments.alias.placeholder": "Publicar como ...",
+  "comments.alias.title": "Alias",
+  "comments.all": "All",
   "comments.argument-limited": "El argumento no puede exceder los 4096 caracteres",
   "comments.arguments": "Argumentos",
   "comments.arguments.confirm-remove": "¿Deseas eliminar este argumento?",
@@ -354,5 +358,7 @@
   "validators.min-length.singular": "Debe tener al menos 1 caracter",
   "validators.not.match": "No coinciden",
   "validators.password.not.match": "Las contraseñas no coinciden",
-  "validators.required": "Requerido"
+  "validators.required": "Requerido",
+  "settings.profile.alert.action": "Completá tu perfil",
+  "settings.profile.alert.message": "Por favor, complete su perfil haciendo click <a href='{subPath}/settings/profile'>acá</a>."
 }
