@@ -1,12 +1,6 @@
 Nosotros
 ===
 
-**¿Qué es "Buenos Aires No Se Vende"?**
-
-“Buenos Aires No Se Vende” surge de la preocupación de más de 200 organizaciones de la Ciudad –asociaciones vecinales, ongs, consejos consultivos de las comunas y partidos políticos– por la administración de tierras y bienes públicos de la Ciudad de Buenos Aires.
-
-“Buenos Aires no se vende” busca llamar la atención respecto de proyectos que afectan el patrimonio de la ciudadanía y dimensionar sus consecuencias para Buenos Aires y sus habitantes.
-
 **¿Qué se está debatiendo en esta plataforma online?**
 
 En 2015, fue presentado en la Legislatura Porteña el Proyecto de Ley N° 2485-J-2015 y aprobado en primera lectura (ver, abajo, “pasos que ha seguido este proyecto”). El mismo tiene por objeto crear la Agencia de Bienes Sociedad del Estado, autorizar la venta de inmuebles y urbanizar 13 hectáreas hoy cedidas al Tiro Federal, frente a la cancha de River.
